@@ -216,13 +216,6 @@
         "slug": "brazil"
     },
     {
-        "name": "British Indian Ocean Territory",
-        "code": "IO",
-        "emoji": "🇮🇴",
-        "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/io.svg",
-        "slug": "british-indian-ocean-territory"
-    },
-    {
         "name": "Brunei",
         "code": "BN",
         "emoji": "🇧🇳",
@@ -325,20 +318,6 @@
         "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cn.svg",
         "dialCodes": "+86",
         "slug": "china"
-    },
-    {
-        "name": "Christmas Island",
-        "code": "CX",
-        "emoji": "🇨🇽",
-        "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cx.svg",
-        "slug": "christmas-island"
-    },
-    {
-        "name": "Cocos (Keeling) Islands",
-        "code": "CC",
-        "emoji": "🇨🇨",
-        "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/cc.svg",
-        "slug": "cocos-(keeling)-islands"
     },
     {
         "name": "Colombia",
@@ -589,13 +568,6 @@
         "slug": "french-polynesia"
     },
     {
-        "name": "French Southern Territories",
-        "code": "TF",
-        "emoji": "🇹🇫",
-        "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/tf.svg",
-        "slug": "french-southern-territories"
-    },
-    {
         "name": "Gabon",
         "code": "GA",
         "emoji": "🇬🇦",
@@ -730,13 +702,6 @@
         "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/ht.svg",
         "dialCodes": "+509",
         "slug": "haiti"
-    },
-    {
-        "name": "Heard & McDonald Islands",
-        "code": "HM",
-        "emoji": "🇭🇲",
-        "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/hm.svg",
-        "slug": "heard-and-mcdonald-islands"
     },
     {
         "name": "Honduras",
@@ -1419,13 +1384,6 @@
         "slug": "rwanda"
     },
     {
-        "name": "Saint Barthélemy",
-        "code": "BL",
-        "emoji": "🇧🇱",
-        "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/bl.svg",
-        "slug": "saint-barthelemy"
-    },
-    {
         "name": "Saint Helena",
         "code": "SH",
         "emoji": "🇸🇭",
@@ -1448,13 +1406,6 @@
         "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/lc.svg",
         "dialCodes": "+1 758",
         "slug": "saint-lucia"
-    },
-    {
-        "name": "Saint Martin",
-        "code": "MF",
-        "emoji": "🇲🇫",
-        "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/mf.svg",
-        "slug": "saint-martin"
     },
     {
         "name": "Saint Pierre & Miquelon",
@@ -1585,13 +1536,6 @@
         "slug": "south-africa"
     },
     {
-        "name": "South Georgia & South Sandwich Islands",
-        "code": "GS",
-        "emoji": "🇬🇸",
-        "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/gs.svg",
-        "slug": "south-georgia-and-south-sandwich-islands"
-    },
-    {
         "name": "South Korea",
         "code": "KR",
         "emoji": "🇰🇷",
@@ -1638,13 +1582,6 @@
         "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sr.svg",
         "dialCodes": "+597",
         "slug": "suriname"
-    },
-    {
-        "name": "Svalbard & Jan Mayen",
-        "code": "SJ",
-        "emoji": "🇸🇯",
-        "image": "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/flags/4x3/sj.svg",
-        "slug": "svalbard-and-jan-mayen"
     },
     {
         "name": "Sweden",
